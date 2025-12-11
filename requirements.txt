@@ -1,0 +1,13 @@
+streamlit
+en-core-web-trf @ https://github.com/explosion/spacy-models/releases/download/en_core_web_trf-3.5.0/en_core_web_trf-3.5.0-py3-none-any.whl
+PyMuPDF
+pillow
+pytesseract
+sentence-transformers
+networkx
+pyvis
+transformers
+torch
+python-multipart
+nltk
+matplotlib
